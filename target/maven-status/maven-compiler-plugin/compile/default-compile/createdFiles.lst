@@ -1,0 +1,14 @@
+top\Main.class
+top\statistics\handlers\MobKillsHandler.class
+top\statistics\handlers\TimeTopHandler.class
+top\data\DataManager.class
+top\statistics\handlers\FishingTopHandler.class
+top\commands\TopkiCommand.class
+top\statistics\handlers\BlockBreakTopHandler.class
+top\statistics\handlers\DeathsTopHandler.class
+top\statistics\handlers\DistanceTravelHandler.class
+top\statistics\handlers\FoodConsumeHandler.class
+top\statistics\handlers\BlockPlaceTopHandler.class
+top\statistics\handlers\AnimalKillsHandler.class
+top\statistics\handlers\DistanceTravelledHandler.class
+top\statistics\handlers\GuiProtectionHandler.class

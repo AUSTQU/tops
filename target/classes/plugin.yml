@@ -1,0 +1,10 @@
+name: Topki
+version: 1.0
+main: top.Main
+api-version: 1.19
+description: Plugin na topki statystyk graczy
+author: azyff
+commands:
+  topki:
+    description: Otwiera GUI z topkami graczy
+    usage: /topki
